@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumerishere
 - I’m interested in coding.
-- I’m looking to collaborate on project of web development.
+- I’m looking to collaborate on project of web development including django, MERN stack related.
 - mail:ksumer597@gmail.com
 
 <!---
