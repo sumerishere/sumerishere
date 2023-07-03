@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumerishere
-- I’m interested in coding 
-- I’m currently learning python 
-- I’m looking to collaborate on project of ml 
+- I’m interested in coding.
+- I’m looking to collaborate on project of web development.
 - mail:ksumer597@gmail.com
 
 <!---
