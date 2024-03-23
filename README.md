@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [InvestifyHub Application](https://github.com/sumerishere/investifyHub-BackEnd)
 
-- 🌱 I’m currently learning **REACT**
-
 - 👯 I’m looking to collaborate on **SPRINGBOOT, MERN Projects**
 
 - 💬 Ask me about **Core Java, Python, JS, Advance Java, Hibernate ORM, MYSQL, OS, SDLC, Agile**
