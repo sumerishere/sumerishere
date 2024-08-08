@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumerishere" alt="sumerishere" /></a> </p>
 
-- 🔭 I’m currently working on [InvestifyHub Application](https://github.com/sumerishere/investifyHub-BackEnd)
+- 🔭 I’m currently working on [Shepherd-CRM Application](https://github.com/sumerishere/Shepherd-CRM-backend)
 
 - 🌱 I’m currently learning **REACT**
 
