@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Shepherd-CRM Application](https://github.com/sumerishere/Shepherd-CRM-backend)
 
-- 🌱 I’m currently learning **REACT**
-
 - 👯 I’m looking to collaborate on **SPRINGBOOT, MERN Projects**
 
 - 💬 Ask me about **Core Java, Python, JS, Advance Java, Hibernate ORM, MYSQL, OS, SDLC, Agile**
