@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumerishere" alt="sumerishere" /></a> </p>
 
-- 🔭 I’m currently working on [Shepherd-CRM Application](https://github.com/sumerishere/Shepherd-CRM-backend)
-
 - 👯 I’m looking to collaborate on **SPRINGBOOT, MERN Projects**
 
-- 💬 Ask me about **Core Java, Python, JS, Advance Java, Hibernate ORM, MYSQL, OS, SDLC, Agile**
+- 💬 Ask me about **Core Java, Python, JS, Advance Java, Hibernate ORM, MYSQL, VPS Cloud, Nginx, OS, SDLC, Agile**
 
 - 📫 How to reach me **ksumer597@gmail.com**
 
